@@ -1,0 +1,946 @@
+[
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Alchemical Hydra",
+    "description": "A plugin for the Alchemical Hydra boss.",
+    "id": "alchemicalhydra-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "E6014A17F240F31177B0BCE3F89AD72251926E034704B1F32BD8593FA4129E19CC3F818C6E1A1FA1F7D550A9CB4A3468E2C99DEEECAE16482062C6CBA21F56AE",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/alchemicalhydra-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "AoE Warnings",
+    "description": "Shows the final destination for AoE Attack projectiles",
+    "id": "aoewarnings-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "64C86DBB2771A92181B18D67BED905E9FCBC473CF1F28766D40A02C3ABCF3D65B0181A43980A8DE7C9476C73BAB5FB97ECED53048F7065C159ED7B58064906EF",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/aoewarnings-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Blackjack",
+    "description": "Allows for one-click blackjacking, both knocking out and pickpocketing",
+    "id": "blackjack-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "77C682AF01980B5F63E5138BD24DC0BD91B1BB3A1982C9B8B83362034BE0B408ACA0D26F5E99FB9771EC6925761D0134A1F8697367DBDCC43DB8FFCAB9916279",
+        "version": "5.0.2",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/blackjack-5.0.2.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "castle wars extended",
+    "description": "castle wars extended",
+    "id": "castlewarsextended-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "66EA70DFDA9C80EB3B41EE25D37D5F8805535CA31B2212F61960EBE66F459E9B9F647F34573255EECACDC04BEB41D7A5127F0211BE7CDCD9BC37F6C6E5B82F34",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/castlewarsextended-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Cerberus",
+    "description": "Show Cerberus' attacks and what to pray against the summoned souls",
+    "id": "cerberus-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "B37759DDDD12D307E5C00007029297F27E39D47BE49AF6FF19AA442F59CEA46ECFEF44963D921CE776526731E7CB667AB2BBE4340201EF12DD2F3C5BECA72EAE",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/cerberus-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Clan Man Mode",
+    "description": "Assists in clan PVP scenarios",
+    "id": "clanmanmode-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "7438F9603839C6D3B28BF1387F829D15BA462FC1B69AA78BE4FB1CE8D9F10A35FE5C70C46CA5678B49B26E8F2BE59F718BD1884BDFAF4254F8AB621695ACC900",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/clanmanmode-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "CoX Helper",
+    "description": "All-in-one plugin for Chambers of Xeric",
+    "id": "coxhelper-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "29FF4A1C4D898E6A070789B2CD9952E936EBD7DAC69E5975B867EB78B45E00730A022BF0EB9A67408CC7D5335D2F4185240FD76C85E82A010E3710ED751F619B",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/coxhelper-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Dagannoth Kings",
+    "description": "A plugin for the Dagannoth Kings.",
+    "id": "dagannothkings-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "BEAA46D88649D49B62D2D2733F0C8825DCA758C00EDCE88D97FA5DB607E2786A22C19480AD62676B69090AD8F0FFE6C8BBEAD3CF065E2508526962BE5EC33B66",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/dagannothkings-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Demonic Gorillas",
+    "description": "Count demonic gorilla attacks and display their next possible attack styles",
+    "id": "demonicgorillas-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "54FBD4405CF2B56C315112BEB82F14AF7D9476BAC224F256773F504888C464F97E56EE582FB7736D6DFA4A7DE464B6056ED5D1522EB58679EDBBCDCD7FB4747A",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/demonicgorilla-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Drop Party",
+    "description": "Marks where a user ran, for drop partys",
+    "id": "dropparty-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "BA46039A88F22D48EC035EAA26654D4EA5E2EAE240434390740E89B3171210D192B602BA44A5FFC92B6EAD379399B902E0444AE12E47E9C991D89100EC3C2491",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/dropparty-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Dynamic Max Hit",
+    "description": "Dynamic Max Hit Calculations",
+    "id": "dynamicmaxhit-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "2DF5721293E66BDBDBCFDEEAB3D8229639E4A62BAEB3D2650C403CE7408F2F94C1F62D94C5D0DF38A84B079584B2C245C27529970704D17B0C2980665BDE71ED",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/dynamicmaxhit-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Effect Timers",
+    "description": "Effect timer overlay on players",
+    "id": "effecttimers-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "8D6AABEB75E7D8C3DA8C01B37334F0DFE1E6B6B2FB38237A103565279CCF61A60EA8053FB77DBEAD6C38FFA84D8B2E78B0AED3B34052FE74D1EB82F7A66ADD63",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/effecttimers-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Entity Focus Pile",
+    "description": "Bring whomever you're interacting with to focus on the pile.",
+    "id": "entityfocuspile-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "ECB07BA83BF59539BA40EE505A4BCC04ED62F8864A315B40865712FD0A1C00AC8FEA0EE94E06D216375202C3410B7560A6409BA65960580CFB69C5A15A4FB40B",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/entityfocuspile-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Entity Hider Extended",
+    "description": "Hide players, NPCs, and/or projectiles",
+    "id": "entityhiderextended-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "00D19A98E0983059C135E9D5CC6CF37780BEF1DD4143108E6ADD29B9AF17473DDEDD4AF9D60CAB9721B177DAE1682EAB3E26887CA35A533B29B74ADE4A119AC0",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/entityhiderextended-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Environment Aid",
+    "description": "Environment Aid to assist in certain areas",
+    "id": "environmentaid-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "6EB9524B79CAC931EDABF38E35485A082DBFE1221359EB78685671ACE48E2297EFC10744C78B57F8B4B2740AD99FF448211A83E8D359A4ACA29671E967DE2308",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/environmentaid-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Fight Cave",
+    "description": "Displays current and upcoming wave monsters in the Fight Caves and what to pray at TzTok-Jad",
+    "id": "fightcave-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "039608AF84D5EA3624783D6F92C4ECB35D61D8F6CED9C341818096346AB5F1721A3292C0F433AC5DC24695EB2B959E606B7AA67247EE4A476B5B45014D465103",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/fightcave-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Gauntlet",
+    "description": "All-in-one plugin for the Gauntlet",
+    "id": "gauntlet-plugin",
+    "releases": [
+      {
+        "date": "2021-03-10",
+        "sha512sum": "C2AF5DB230E715052A33356D204E7C2608515ED6D81EF0640115102B0246AC072AF8BC2F1F55F978F54EA2F0CDA61F545929DFA83B7473EE198B5E17896166C0",
+        "version": "5.0.2",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/gauntlet-5.0.2.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Godbook",
+    "description": "Tracks the ticks since someone preached from their godbook",
+    "id": "godbook-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "5617BD0B515B77AA4452B426B2C69116C84211531D2F240C4EF50E48002F8775A97AB160AA3B66E24CDEBAE5373027017C64033B9C4EEBF864BBA11CD9FFB22D",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/godbook-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Grotesque Guardians",
+    "description": "Show various helpful utitiles during the Grotesque Gaurdians (Gargoyles) fight",
+    "id": "grotesqueguardians-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "039C5E451554BD305BB49864DD2E2B4A03557D4298E05C7FAC9A3D88105819D7632C4E3885714313475D509B3964621A79B2708F50AB73432126A8306119EF0B",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/grotesqueguardians-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Hallowed Sepulchre",
+    "description": "Hallowed Sepulchre",
+    "id": "hallowedsepulchre-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "45427FBCC1E3C36CE2F7725A5560A35192CDDD4D956B035CA841503620E27E67B65A171857637B74DB8E106EBDD6511EE4A2473B88B84A1095B48F52717316C6",
+        "version": "5.0.1",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/hallowedsepulchre-5.0.1.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Show/Hide Prayers",
+    "description": "Hides specific Prayers",
+    "id": "showhideprayers-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "E4BF0CD55BE2F72AB633CF5BCD17F845E21CC76986BAEF09EAFD67AA239E4C37F6182EFB877416E6D1222060AA9A219F5C62CA2C4AB0C991CF8CA52D1049DBE0",
+        "version": "1.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/hideprayers-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Hide Under",
+    "description": "Hide local player when under targeted players",
+    "id": "hideunder-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "82AF38D0431B261EAEDF3DAD5FB16F2C2AA3881FA9FFD8E28AE1352680719C546D489DBF6BF7E8C807F643A8729241E25DE6A8603356FD645E01C1B4AF29DB17",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/hideunder-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Hydra Helper",
+    "description": "Overlays for small hydras",
+    "id": "hydrahelper-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "B52B0F499ABF58CBBA15F19D845E39A667425C3EBF4D7852372BC5A110169D398B6FD5B7CEA0D19F4554153BC2191149F754AB01BAA2228896BFE09CF8805521",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/hydra-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Inferno",
+    "description": "Inferno helper",
+    "id": "inferno-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "A26AB665671E1B04BE666533D647AE637648F2572930276B7F4ED8995C9500B6CD7616DA933B179C1818B92A3C0E192EB62EF40631253EB25EB6A2CB5447D123",
+        "version": "5.0.3",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/inferno-5.0.3.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Kalphite Queen",
+    "description": "Kalphite Queen plugin",
+    "id": "kalphitequeen-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "B9DBE36AC2F05AFCED5821230D35F89E6C68C4913321939068C11F18349287B194E23136005FF92709338B86558376FBC8D73FE3EBF65CF6CA88DCC6800923FC",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/kalphitequeen-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Lizard Shamans",
+    "description": "Configures timer for lizardmen shaman spawns",
+    "id": "lizardshamans-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "F4C3B685C6DB312F6011D16635D18DFAB802DC7CBA9E26F998DF8D5CD3C039FFD4D2AE0413919F494C3F2AE2FD156720CF0011AC293E38D184652FB6E458B390",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/lizardmenshaman-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Loot Assist Plugin",
+    "description": "Creates a tile overlay with a timer that counts down to when the loot will appear to you",
+    "id": "lootassistplugin-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "3EFDCC77A49ADD215F70247373E75905C37C3F81D290865F4D7571D6BC25984513807CEAD6D5DF7D4E51D142BC99D3C7F86E2E390FEC9448FC9FCEF1B77AF079",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/lootassist-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Multi Lines",
+    "description": "Show borders of multicombat and PvP safezones",
+    "id": "multilines-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "6FD0C9CE47F59A7A39D30CF9077181771E901C2B3E109E3CB8EA0106C6B419625033C90A530D796D5BEB833B6BA9390E197730BC54BE5ED237E69B371CBE7EB7",
+        "version": "5.0.1",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/multiindicators-5.0.1.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Never Logout",
+    "description": "Remove 5 minute idle logout timer.",
+    "id": "neverlogout-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "0E1E34930FC00A9F20E05F79FE44F8A85682BDE6F6522CA0A5ACC7A6926D69229BD3302BAA72BDF313C70DF41C8253C9C9F08CDE9A89A32D270B3B3B6534DA96",
+        "version": "4.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/neverlogout-4.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Nightmare of Ashihama",
+    "description": "Shows what to pray and what to do at Nightmare of Ashihama",
+    "id": "nightmareofashihama-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "FC975099DAB753F8752535EB8FC069E319F2960AA900A8321AB66661D6C730115C8C63832E9AFB6CCA82F8E972DCF4BCAE7CD3189D1D81A884FD09714C548726",
+        "version": "5.0.1",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/nightmare-5.0.1.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "NPC Status Timer",
+    "description": "Adds a timer on NPC's for their attacks and flinching",
+    "id": "npcstatustimer-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "AAE06FA3D6B527D31E2561298C7C18DE616B616B52EBB4223BD1E209C4ECEDF2DEB16F6ED5AFE68178B8BB8EA3DE6B39F16C27E64D8ECCE7BD785430F3BB3BF1",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/npcstatus-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Pile Indicators",
+    "description": "Highlight and count how many npcs/players are stacked on each other",
+    "id": "pileindicators-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "45C99282B8F789C867A753389D35404D9E77A2BE265B33ACCD76690FAF03F3E62AFD201B9B9172FE0AAC36549C029F8C00D5BC916D9F0C799FA3C0162A755842",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/pileindicators-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Player Attack Timer",
+    "description": "Display the tick delay for your current weapon.<br>Helps with lazy prayer flicking and flinching.",
+    "id": "playerattacktimer-plugin",
+    "releases": [
+      {
+        "date": "2021-03-10",
+        "sha512sum": "C42F1755A6E6D5DD29288E69CB77BA59FC4471FE5164CBF58DF38058593B4D467FDBD92573BDC08FCBD3AE36CABA141307FA0A30E2DE0EDDB7D598885798A5DF",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/playerattacktimer-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Player Scouter",
+    "description": "Scout players and output them to your discord channel!",
+    "id": "playerscouter-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "02546D5EA92068518F68FD175C5C95688E786B4F00A2A68BAC8C01139D1E14E8C7359A3E935F2382C4183B6DC35FC1E5061F28F54FFD548FBAA3C47379D1CDB1",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/playerscouter-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Pray Against Player",
+    "description": "Use plugin in PvP situations for best results",
+    "id": "prayagainstplayer-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "90F4F51397356CEB48CE20EF4D029C564B5C93D2303C81AB4F7B06A171B286F3E6B741660EF28ABB841ADBEDAD314CF9413C1639BF863A3AE2EC250EE9454D2F",
+        "version": "5.0.1",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/prayagainstplayer-5.0.1.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "PvP Tools",
+    "description": "Enable the PvP Tools panel",
+    "id": "pvptools-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "7CC51DCF8C7B7EE600B3B9F22226135AFFBC760DCAEF86DC989E1FE33C3ED35C2923E1429F596097CC138CD752DE8DB0C90A90B8B14A7AD15DC66B880CAFE8DF",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/pvptools-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Reorder Prayers",
+    "description": "Reorder the prayers displayed on the Prayer panel",
+    "id": "reorderprayers-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "FA1F6A7CF5A5E0672957E45E137AA75DE0C8C8FC6001F630AE9C95FAB990424E0B25422DE2EB9994C97457653651C1D54DEB9E1F8C0774A361F256C675BC7268",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/reorderprayers-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Runedoku",
+    "description": "Show solutions for current Runedoku puzzle",
+    "id": "runedoku-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "64A56C38D86F1D500E06FE6C68C1F7108BB208E14DA7CBC591849933435A979DE2582290990455043CF4BE0C67B469559EEB76682666BC6ADBDAEE452390176D",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/runedoku-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Socket",
+    "description": "Socket connection for broadcasting messages across clients.",
+    "id": "socket-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "52CBD2C82A09F2F6F46D19E2A7DA3513933CCA6763354542F638DB10529C25DECBF6DAE2D9AD8E980D30E14CFC47963E23756C8A67205DF26F059B6693EC491C",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/socket-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Socket Death Indicator",
+    "description": "Socket extension for extending removing dead nylocas during Theatre",
+    "id": "socketdeathindicator-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "C0D6AE3A0C59CE89E6962BE297F1DC527A7D63C313C9671E8D9A7BB63AF4ED08827B16CA607DBD1C6D19696EB98C6E0CD94CA50FCF553643DB6BD979425B6932",
+        "version": "5.0.1",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/socketdeathindicator-5.0.1.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Socket Player Status",
+    "description": "Socket extension for displaying player status to members in your party.",
+    "id": "socketplayerstatus-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "BDDE58B4DCB59344A37437DF4F4E189DDC6D9A6B6789C1205BB55AF9284B9A6525992B89D262257CEA120DB326BE2A5FF66C598AF6151D074523DD88D8F2658C",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/socketplayerstatus-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Socket Player Status Extended",
+    "description": "Socket extension for displaying player status to members in your party.",
+    "id": "socketplayerstatusextended-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "96CF7BA01D71580DB802FB2D80F20841440D7BBA82F213BCB3625FA4A11EE6C021C8D52C79A6D4858B061031EEF64370B1D911DEAE20CBF892783F364EB58536",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/socketplayerstatusextended-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Socket Sotetseg",
+    "description": "Extended plugin handler for Sotetseg in the Theatre of Blood.",
+    "id": "socketsotetseg-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "8F2A40FC63D1CB7AAF8356DFD55EAF0620BA2A45D331B801BDE71B8B76EB2EFAC99D05E304B649C58EE1341A82E2C77AB30866A0F90010DD49CBAF2880170D95",
+        "version": "5.0.1",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/socketsotetseg-5.0.1.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Socket Special Attack Counter",
+    "description": "Track DWH, Arclight, Darklight, and BGS special attacks used on NPCs using server sockets.",
+    "id": "socketspecialattackcounter-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "92724AABE6DA862AEAD3A2E519D672986E4455D38508C84FD982BCF06ADDB8FC558CBA2D58427A4ABD8443ABF64CB50B9B59AFD0E668D4B3849C9DE1E254197A",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/socketspecialcounter-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Sorceress' Garden",
+    "description": "Provides various utilities for the Sorceress' Garden minigame",
+    "id": "sorceressgarden-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "C568CDD7252CFAA4E868BA344CECEF2B6BEC47AD049EF2A561CDA37840E6379D027CAB952989A49E1B4983570B23DFE6253A2CD34C4330A2226D8C270DBC4CF0",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/sorceressgarden-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Spawn Timer",
+    "description": "Shows NPC'S time since spawned",
+    "id": "spawntimer-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "7EE62F941B384716B80E068E70737F7FD3AE0C555F17820A03C22166108B55D254CEC574BA0B599714DAD605F45A6D93948DB9509F48022472DDA4779961621D",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/spawntimer-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Spec Bar",
+    "description": "Adds a spec bar to every weapon",
+    "id": "specbar-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "513782D3F69F74B8D65012AC52C5DA25D6D7AA05C4AA0A1789E60CBB7DB119911D46CA034F298E133ACD94CDA7459CB968211E347150CE9636FC27BF02DBFB03",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/specbar-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Spec Orb",
+    "description": "Make the special attack orb work everywhere with all weapons",
+    "id": "specorb-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "865001C2B042FD95EA61343C5F754AF3179EF28D2CE227915A7D3D36F8548DD06D161E9B782E8928B88B9EFAFED7DB86D3CE4D82E45DCF05A58DA37D23E3234E",
+        "version": "5.0.1",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/specorb-5.0.1.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Spellbook",
+    "description": "Modifications to the spellbook",
+    "id": "spellbook-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "EBF010F9152635A146F37490078D94235ACCCD2CC669E3D95D07320B12D672277FCF13A5E22922789DF9828116CAE80245AA4310731AC9DB8253613B6F0A9094",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/spellbook-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Stronghold",
+    "description": "Highlights the correct answer to Stronghold of Security questions.",
+    "id": "stronghold-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "90B541D81DDC06F33CC759D6297BBCC4A39575ED00E34D14F1B97D764261FC974DA24A3D1A80AAD64DFAC76C1B40B16B2B67E6980961DA66C970926BDE64311A",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/strongholdofsecurity-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Tarn's lair",
+    "description": "Mark tiles and clickboxes to help traverse the maze",
+    "id": "tarnslair-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "EE3ABDFA14CB46C599F6070BF67366929B9F849D309FC9A0460DFC4DCEFCA536E0660306496442FD05630E735C0CB201CBA689DC6EB265C1655022176E955D6E",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/tarnslair-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Temple Trekking",
+    "description": "Helpers for the Temple Trek minigame",
+    "id": "templetrekking-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "69B921A121FA8FFC305468EB179FA45E925ACD9A12C72ED25F902355196CB60D96BCC264EA958085933911E86E3B2120FD07948AAB85A8DFED0D581964850389",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/templetrekking-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Theatre Of Blood",
+    "description": "All-in-one plugin for Theatre of Blood",
+    "id": "theatreofblood-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "3E71EC373DEC55334FCA640135912E9398ECD6E6D5D6C08114DF22E69368306E8839C5EABB3F0AEF777DA9ABBB85A3F7C3A663B589BEEDA37CDA14188BD6EFC4",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/theatre-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Boss Tick Timers",
+    "description": "Tick timers for bosses",
+    "id": "bossticktimers-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "305581F74AFF32D41379C48AC2A03CF74923994FD7E43548A3F9246E7201ABD542A5B5795C8AEAC5988C0C67846E6C14BCE66E93C164ABF332EFFE8C29335376",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/ticktimers-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Vet'ion",
+    "description": "Tracks Vet'ion's special attacks",
+    "id": "vetion-plugin",
+    "releases": [
+      {
+        "date": "2021-03-10",
+        "sha512sum": "21D94803E26AF2C5E86D88BDC2197D84BFCEE42FCF7597E8D01F616A935FDBE9803123FB3E770C022F8701DC9CFD7B46F5B96490E48773EA83D248C49AD4A19A",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/vetion-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Vorkath",
+    "description": "Count vorkath attacks, indicate next phase, wooxwalk timer, indicate path through acid",
+    "id": "vorkath-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "33927FC403E045B3890A2E1E3A0D5A363A6DE7331A0BCE6EFD716A17E3D3D1BD35C56658F610AF50E9DD02D5DB149559EF6392C6D629CF4565F282CB855100DF",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/vorkath-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Whale Watchers",
+    "description": "A Plugin to save help whales in the wild",
+    "id": "whalewatchers-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "9CD838F9C662D61BE39BF59D08E30B1639FF61BDEB0361D6F6BF4014CDE255EDC6A4D898A022FCE0AE0F86529B3E2BF78D099363996A8D6E475163DBDB428C3D",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/whalewatchers-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Wilderness Locations",
+    "description": "Indicates the players current location in the wild",
+    "id": "wildernesslocations-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "624A30DE7F64F592958CC875D597DF27A17CDF635F5BDF6F6BB8E03128561C3ACFC6A2747DEFB0EF89148E7E6363C8612A893F14CA2239F1B5F6D63C51F97E70",
+        "version": "1.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/wildernesslocations-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
+    "name": "Zulrah",
+    "description": "Shows tiles on where to stand during the phases and what prayer to use",
+    "id": "zulrah-plugin",
+    "releases": [
+      {
+        "date": "2021-03-08",
+        "sha512sum": "1F943BE723D1C68E13A30CE8962FF846220A6A976C4DFBC8681086DD44A09507BE7104D41B997C974853D7486AE7D31D2842584D6C78C9741F7746C28D119D07",
+        "version": "5.0.0",
+        "url": "https://github.com/tumri/oosrs-plugins-xky/blob/master/release/zulrah-5.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  }
+]

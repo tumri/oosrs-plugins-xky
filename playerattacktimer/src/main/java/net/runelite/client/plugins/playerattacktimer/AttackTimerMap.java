@@ -13,6 +13,9 @@ final class AttackTimerMap
 
 	static
 	{
-		ATTACK_TIMER_MAP.put(1658, 4); // Abyssal whip
+		ATTACK_TIMER_MAP.put(1658, 4); // Abyssal Whip
+		ATTACK_TIMER_MAP.put(3297, 4); // Abyssal Dagger
+		ATTACK_TIMER_MAP.put(7552, 6); // Crossbow
+		ATTACK_TIMER_MAP.put(2067, 7); // Dharok's Greataxe
 	}
 }

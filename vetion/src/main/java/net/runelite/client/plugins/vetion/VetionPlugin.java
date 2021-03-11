@@ -31,6 +31,8 @@ import javax.inject.Inject;
 import lombok.AccessLevel;
 import lombok.Getter;
 import net.runelite.api.Actor;
+import net.runelite.api.NPC;
+import net.runelite.api.NpcID;
 import net.runelite.api.events.AnimationChanged;
 import net.runelite.client.eventbus.Subscribe;
 import net.runelite.client.plugins.Plugin;
@@ -74,14 +76,27 @@ public class VetionPlugin extends Plugin
 		vetions = null;
 	}
 
+	private boolean isVetion(NPC npc)
+	{
+		switch (npc.getId())
+		{
+			case NpcID.VETION:
+			case NpcID.VETION_REBORN:
+				return true;
+		}
+		return false;
+	}
+
 	@Subscribe
 	private void onAnimationChanged(AnimationChanged event)
 	{
-		if (event.getActor().getAnimation() == VETION_EARTHQUAKE)
+		Actor actor = event.getActor();
+		if (actor instanceof NPC
+				&& isVetion((NPC) actor)
+				&& actor.getAnimation() == VETION_EARTHQUAKE)
 		{
-			Actor vet = event.getActor();
-			vetions.remove(vet, Instant.now());
-			vetions.put(vet, Instant.now());
+			vetions.remove(actor, Instant.now());
+			vetions.put(actor, Instant.now());
 		}
 	}
 }
